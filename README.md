@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bmarcoos
+- 👀 I’m interested in data science and data visualization
+- 🌱 I’m currently learning CNNs, Dash applications and Cloud
+- 💞️ I’m looking to collaborate on saving the world
+- 📫 How to reach me on instagram @bmarcoos
